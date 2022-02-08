@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "new": "npx zenn new:article",
+    "preview": "npx zenn preview"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.105"
   }
